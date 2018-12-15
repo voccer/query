@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloRDF4J",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.example.HelloRDF4J",
+            "args": "",
+            "projectName": "rdf4j-getting-started"
+        }
+    ]
+}
