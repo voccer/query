@@ -1,0 +1,100 @@
+Pune, India
+Rome, Italy
+Islamabad, Pakistan
+Ho Chi Minh City, Vietnam
+Mandalay, Myanmar
+Nanjing, China
+Tehran, Iran
+Faisalabad, Pakistan
+New Taipei City, Taiwan
+Ankara, Turkey
+Kathmandu,   Nepal
+Jaipur, India
+Campinas, Brazil
+Baku, Azerbaijan
+Karaj, Iran
+Gujranwala, Pakistan
+Guangzhou, China
+Fez, Morocco
+Suzhou, China
+Fuzhou, China
+Accra, Ghana
+Tabriz, Iran
+Nizhny Novgorod, Russia
+Maputo, Mozambique
+Belo Horizonte, Brazil
+Davao City, Philippines
+Karachi, Pakistan
+Kabul, Afghanistan
+Chengdu, China
+Dongguan, China
+Kano, Nigeria
+Hyderabad, Pakistan
+Yokohama, Japan
+Auckland, New Zealand
+Daegu, South
+Milan, Italy
+Managua, Nicaragua
+Nagpur, India
+Novosibirsk, Russia
+Santiago, Chile
+Kyoto, Japan
+Sapporo, Japan
+Mashhad, Iran
+Hong Kong, China
+İzmir, Turkey
+Kiev, Ukraine
+Caloocan, Philippines
+Hiroshima, Japan
+Curitiba, Brazil
+Ibadan, Nigeria
+Saint Petersburg, Russia
+Chennai, India
+Xiamen, China
+Belgrade, Serbia
+Qom, Iran
+Phoenix, United States
+Hamburg, Germany
+Abidjan, Ivory Coast
+Shenzhen, China
+Medan, Indonesia
+Ahvaz, Iran
+Shenyang, China
+Changsha, China
+Buenos Aires, Argentina
+Dhaka, Bangladesh
+Daejeon, South
+Ulsan, South
+Almaty, Kazakhstan
+Bogotá, Colombia
+Casablanca, Morocco
+Kolkata, India
+Quito, Ecuador
+Wuhan, China
+Quanzhou, China
+Berlin, Germany
+Brisbane, Australia
+Cape Town, South Africa
+Hangzhou, China
+Los Angeles, United States
+Dubai, United Arab Emirates
+Kanpur, India
+Kaohsiung, Taiwan
+Qingdao, China
+Tainan, Taiwan
+Algiers, Algeria
+Riyadh, Saudi Arabia
+Makassar, Indonesia
+Yerevan, Armenia
+Maracaibo, Venezuela
+Pyongyang, North
+Cairo, Egypt
+Melbourne, Australia
+Hyderabad, India
+Barranquilla, Colombia
+T'bilisi, Georgia
+Patna, India
+Alexandria, Egypt
+San Antonio, United States
+Nairobi, Kenya
+Guadalajara, Mexico

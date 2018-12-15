@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppMain",
+            "request": "launch",
+            "mainClass": "com.virtuoso.appmain.AppMain"
+        }
+    ]
+}
